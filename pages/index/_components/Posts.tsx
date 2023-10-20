@@ -25,20 +25,20 @@ export default () => {
     // const [postLists] = createResource(getLatestPosts)
     const postLists: Array<object> = [
         {
-            id: 2,
+            id: "2",
             title: "人只不过是自然与精神之间一座危险又狭窄的桥梁",
             url: "https://idealdestructor.github.io/blog/archives/Steppenwolf/",
             published_at: "2022-05-20",
         },
         {
-            id: 1,
+            id: "1",
             title: "「 复 古 未 来 」S y n t h w a v e 合 成 器 浪 潮",
             url: "https://idealdestructor.github.io/blog/archives/synthwave/",
             published_at: "2021-03-11",
         },
 
         {
-            id: 0,
+            id: "0",
             title: "冰岛、新古典音乐、现代极简与存在主义",
             url: "https://idealdestructor.github.io/blog/archives/neoclassical/",
             published_at: "2019-06-08",
