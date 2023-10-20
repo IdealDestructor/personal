@@ -29,5 +29,5 @@ https://ddiu.site/* https://deqiang.wang/:splat 301!
 /emoji https://emoji.deqiang.wang/
 
 # Github Repo Jump
-/gh/* https://github.com/ddiu8081/:splat
+/gh/* https://github.com/idealdestructor/:splat
 
