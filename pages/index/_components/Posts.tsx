@@ -23,7 +23,7 @@ const PostItem = (props: PostProps) => {
 
 export default () => {
     // const [postLists] = createResource(getLatestPosts)
-    const postLists: Array<object> = [
+    const postLists: Array<PostMeta> = [
         {
             id: "2",
             title: "人只不过是自然与精神之间一座危险又狭窄的桥梁",
@@ -36,7 +36,6 @@ export default () => {
             url: "https://idealdestructor.github.io/blog/archives/synthwave/",
             published_at: "2021-03-11",
         },
-
         {
             id: "0",
             title: "冰岛、新古典音乐、现代极简与存在主义",
