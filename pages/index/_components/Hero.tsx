@@ -15,7 +15,7 @@ export default () => {
                     <span>Front-end developer / Amateur EDM producer.</span>
                 </div>
                 <div mt-2>
-                    <span>Currently working in ShangHai.</span>
+                    <span>Currently working in Shanghai.</span>
                 </div>
                 <div mt-2>
                     <span>I like making interesting projects.</span>
